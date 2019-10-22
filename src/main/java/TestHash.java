@@ -7,7 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class TestHash {
     public static void main(String[] args){
-        int i =0;//b
+        int i =0;//c
         int x = i + 1;
         char ch='e';
         boolean u = true;
